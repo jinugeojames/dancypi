@@ -7,7 +7,6 @@ FROM balenalib/%%BALENA_MACHINE_NAME%%-python:3-stretch-run
 # RUN install_packages git
 
 # Set our working directory
-WORKDIR /usr/src/app
 
 
 
